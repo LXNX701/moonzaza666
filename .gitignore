@@ -1,0 +1,35 @@
+# Xcode
+DerivedData/
+*.xcuserdata/
+*.xcworkspace/xcuserdata/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcodeproj/xcuserdata/
+*.ipa
+*.dSYM.zip
+*.dSYM
+build/
+*.apk
+
+# macOS
+.DS_Store
+.Python
+Profile
+*.swp
+
+# Build artifacts
+*.app
+*.appex
+*.framework
+*.dylib
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+*.bak
+*.orig
+*~
